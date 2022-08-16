@@ -36,7 +36,7 @@ class HomeStart extends State<Home> {
               child: ElevatedButton(
                 child: const Text('Entrar'),
                 onPressed: (){
-                  print('Botón presionado');
+                  print('Botón Presionado');
                 },
               ),
             ),
